@@ -22,12 +22,6 @@ Some of projects I have worked on:
   Out-of-time-order correlators (OTOCs) can be used to probe how quickly a quantum system scrambles information when the initial conditions of the dynamics are changed. In sufficiently large quantum systems, one can extract from the OTOC the quantum analog of the Lyapunov coefficient that describes the timescale on which a classical chaotic system becomes scrambled. The vibrations of polyatomic molecules are known to undergo a transition from regular dynamics at low energy to facile energy flow at sufficiently high energy. Molecules therefore represent ideal quantum systems to study scrambling in many-body systems of moderate size (here 6 to 36 degrees of freedoms). By computing quantum OTOCs and their classical counterparts we quantify how information becomes “scrambled” quantum mechanically in molecular systems.  
 ( [doi](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.033322) )
   
- 
-**Publications**
-======
-  - Chenghao Zhang, Edwin L.Sibert III, and Martin Gruebele, A phase diagram for energy flow-limited reactivity, J.Chem.Phys. 154,104301 (2021) ([doi](https://aip.scitation.org/doi/10.1063/5.0043665))
-  - C.Zhang, P.G.Wolynes, and Martin Gruebele, Quantum Information Scrambling in Molecules, Phys.Rev.A **105**, 033322 (2022)([doi](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.033322))
-
 
 **CV**
 ======
