@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 3"
+title: "Quantum information scrambling in molecules"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2022-03-29
+venue: 'Physical Review A'
+citation: 'C. Zhang, P. G. Wolynes, and M. Gruebele, Quantum Information Scrambling in Molecules,Phys. Rev. A 105, 033322 (2022)'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Out-of-time-order correlators (OTOCs) can be used to probe how quickly a quantum system scrambles information when the initial conditions of the dynamics are changed. In sufficiently large quantum systems, one can extract from the OTOC the quantum analog of the Lyapunov coefficient that describes the timescale on which a classical chaotic system becomes scrambled. OTOCs have been applied only to a very limited number of toy models, such as the Sachdev-Ye-Kitaev model connected with black hole information scrambling, but they could find much wider applicability for information scrambling in quantum systems that allow comparison with experiments. The vibrations of polyatomic molecules are known to undergo a transition from regular dynamics at low energy to facile energy flow at sufficiently high energy. Molecules therefore represent ideal quantum systems to study scrambling in many-body systems of moderate size (here 6 to 36 degrees of freedoms). By computing quantum OTOCs and their classical counterparts we quantify how information becomes “scrambled” quantum mechanically in molecular systems. Between early “ballistic” dynamics, and late “saturation” of the OTOC when the full density of states is explored, there is indeed a regime where a quantum Lyapunov coefficient can be defined for all molecules in this study. Comparison with experimental rate data shows that slow scrambling as measured by the OTOC can reach the timescale of molecular reaction dynamics. Even for the smallest molecules we discuss, the Maldacena bound remains satisfied by regularized OTOCs, but not by unregularized OTOCs, highlighting that the former are more useful for discussing information scrambling in this type of moderate-size quantum system.
