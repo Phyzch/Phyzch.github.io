@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Chenghao Zhang, I am currently a Ph.D. student at Department of Physics, University of Illinois at Urbana Champaign (UIUC), advised by Prof.[Martin Gruebele](https://gruebele-group.chemistry.illinois.edu/). I also benefit from collaboration with Prof.[Peter Wolynes](https://wolynes.rice.edu/) at Rice University.
+Hi! I am Chenghao Zhang, I am currently a Ph.D. student at Department of Physics, University of Illinois at Urbana Champaign (UIUC), advised by Prof. [Martin Gruebele](https://gruebele-group.chemistry.illinois.edu/). I also benefit from collaboration with Prof. [Peter Wolynes](https://wolynes.rice.edu/) at Rice University.
 
-As a physicist by training, I got my physics undergraduate degree from Peking University, Beijing, China. In my undergraduate study, I work on nonequilibrium statistical physics and biophysics with Prof.[Yuhai Tu](https://researcher.watson.ibm.com/researcher/view.php?person=us-yuhai) and Prof.[Qi Ouyang](http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index1642.shtml). Now I am working at the interface of chemistry and physics. I am interested at studying intramolecular vibrational energy redistribution, quantum scrambling and quantum localization in complex chemical systems, and chemical dynamics in nonadiabatic systems and in condensed phase systems.
+As a physicist by training, I got my physics undergraduate degree from Peking University, Beijing, China. In my undergraduate study, I worked on nonequilibrium statistical physics and biophysics with Prof. [Yuhai Tu](https://researcher.watson.ibm.com/researcher/view.php?person=us-yuhai) and Prof. [Qi Ouyang](http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index1642.shtml). Now I am working at the interface of chemistry and physics. I am interested at studying intramolecular vibrational energy redistribution, quantum scrambling and quantum localization in complex chemical systems, and chemical dynamics in nonadiabatic systems and in condensed phase systems.
 
 **Projects**
 ======
@@ -26,7 +26,7 @@ Some of projects I have worked on:
 **Publications**
 ======
   - Chenghao Zhang, Edwin L.Sibert III, and Martin Gruebele, A phase diagram for energy flow-limited reactivity, J.Chem.Phys. 154,104301 (2021) ([doi](https://aip.scitation.org/doi/10.1063/5.0043665))
-  - C.Zhang, P.G.Wolynes, and Martin Gruebele, Quantum Information Scrambling in Molecules, Phys.Rev.A **105**, 033322 (2022)( [doi](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.033322) )
+  - C.Zhang, P.G.Wolynes, and Martin Gruebele, Quantum Information Scrambling in Molecules, Phys.Rev.A **105**, 033322 (2022)([doi](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.033322))
 
 
 **CV**
