@@ -31,4 +31,4 @@ Some of projects I have worked on:
 
 **CV**
 ======
-You can find my CV [here] (https://phyzch.github.io/cv/) 
+You can find my CV [here](https://phyzch.github.io/cv/) 
