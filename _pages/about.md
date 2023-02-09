@@ -16,11 +16,10 @@ As a physicist by training, I got my physics undergraduate degree from Peking Un
 ======
 Some of projects I have worked on:
 
- - **Energy flow limited reactivity** ( with [Martin Gruebele](https://gruebele-group.chemistry.illinois.edu/) and [Edwin Sibert](https://www2.chem.wisc.edu/users/sibert) ) 
-   Intramolecular energy flow is often assumed im RRKM, transition state and other rate theory not to be an impediment to reaction. In contrast, evidence from spectroscopy , computational study and Anderson-localization based model have shown limited ergodicity during molecular energy flow. We develop a simple model for the interplay of IVR and energy transfer and simulate the model with near-exact quantum dynamics . A sharp ‘phase transition’ is observed as function of molecular anharmonicity between facile and limited IVR . This narrow transition range happens to lie right in the middle of the range expected for molecular torsion, bending, and stretching vibrations, suggesting reactive energy transfer dynamics not far from localization boundary. ([doi](https://aip.scitation.org/doi/10.1063/5.0043665))
-  - **Quantum information scrambling in Molecules** (with [Martin Gruebele](https://gruebele-group.chemistry.illinois.edu/) and [Peter Wolynes](https://wolynes.rice.edu/))
-  Out-of-time-order correlators (OTOCs) can be used to probe how quickly a quantum system scrambles information when the initial conditions of the dynamics are changed. In sufficiently large quantum systems, one can extract from the OTOC the quantum analog of the Lyapunov coefficient that describes the timescale on which a classical chaotic system becomes scrambled. The vibrations of polyatomic molecules are known to undergo a transition from regular dynamics at low energy to facile energy flow at sufficiently high energy. Molecules therefore represent ideal quantum systems to study scrambling in many-body systems of moderate size (here 6 to 36 degrees of freedoms). By computing quantum OTOCs and their classical counterparts we quantify how information becomes “scrambled” quantum mechanically in molecular systems.  
-([doi](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.033322))
+ - **Energy flow limited reactivity** ( with [Martin Gruebele](https://gruebele-group.chemistry.illinois.edu/) and [Edwin Sibert](https://www2.chem.wisc.edu/users/sibert) [doi](https://aip.scitation.org/doi/10.1063/5.0043665) ) 
+    ![](https://github.com/Phyzch/Phyzch.github.io/blob/master/images/JCP_2021.png)
+  - **Quantum information scrambling in Molecules** (with [Martin Gruebele](https://gruebele-group.chemistry.illinois.edu/) and [Peter Wolynes](https://wolynes.rice.edu/)  [doi](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.033322))
+    ![](https://github.com/Phyzch/Phyzch.github.io/blob/master/images/PRA2022.png)
   
 
 **CV**
