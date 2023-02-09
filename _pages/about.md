@@ -16,10 +16,10 @@ As a physicist by training, I got my physics undergraduate degree from Peking Un
 ======
 Some of projects I have worked on:
 
- - **Energy flow limited reactivity** ( with [Martin Gruebele](https://gruebele-group.chemistry.illinois.edu/) and [Edwin Sibert](https://www2.chem.wisc.edu/users/sibert) [doi](https://aip.scitation.org/doi/10.1063/5.0043665) ) 
-    ![](https://github.com/Phyzch/Phyzch.github.io/blob/master/images/JCP_2021.png)
-  - **Quantum information scrambling in Molecules** (with [Martin Gruebele](https://gruebele-group.chemistry.illinois.edu/) and [Peter Wolynes](https://wolynes.rice.edu/)  [doi](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.033322))
-    ![](https://github.com/Phyzch/Phyzch.github.io/blob/master/images/PRA2022.png)
+ - **Energy flow limited reactivity** ( with [Martin Gruebele](https://gruebele-group.chemistry.illinois.edu/) and [Edwin Sibert](https://www2.chem.wisc.edu/users/sibert) , [JCP2021](https://aip.scitation.org/doi/10.1063/5.0043665) ) 
+    ![](../images/JCP_2021.png)
+  - **Quantum information scrambling in Molecules** (with [Martin Gruebele](https://gruebele-group.chemistry.illinois.edu/) and [Peter Wolynes](https://wolynes.rice.edu/) , [PRA2022](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.033322))
+    ![](../images/PRA2022.png)
   
 
 **CV**
