@@ -1,0 +1,10 @@
+---
+title: "surface crossing and energy flow in many-dimensional quantum systems"
+collection: publications
+permalink: /publication/PNAS_2023
+date: 2023-02-23
+venue: 'The Proceedings of the National Academy of Sciences'
+citation: 'C. Zhang, M. Gruebele, D. E. Logan, and P. G. Wolynes , "Surface Crossing and Energy Flow in Many-Dimensional Quantum Systems", 
+Proc. Natl. Acad. Sci. U.S.A. 120, e2221690120 (2023) https://doi.org/10.1073/pnas.222169012'
+---
+Energy flow in molecules, like the dynamics of other many-dimensional finite systems, involves quantum transport across a dense network of near-resonant states. For molecules in their electronic ground state, the network is ordinarily provided by anharmonic vibrational Fermi resonances. Surface crossing between different electronic states provides another route to chaotic motion and energy redistribution. We show that nonadiabatic coupling between electronic energy surfaces facilitates vibrational energy flow and, conversely, anharmonic vibrational couplings facilitate nonadiabatic electronic state mixing. A generalization of the Logan–Wolynes theory of quantum energy flow in many-dimensional Fermi resonance systems to the two-surface case gives a phase diagram describing the boundary between localized quantum dynamics and global energy flow. We explore these predictions and test them using a model inspired by the problem of electronic excitation energy transfer in the photosynthetic reaction center. Using an explicit numerical solution of the time-dependent Schrödinger equation for this ten-dimensional model, we find quite good agreement with the expectations from the approximate analytical theory.
