@@ -21,6 +21,8 @@ Some of projects I have worked on:
   - **Quantum information scrambling in Molecules** (with [Martin Gruebele](https://gruebele-group.chemistry.illinois.edu/) and [Peter Wolynes](https://wolynes.rice.edu/) , [PRA2022](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.105.033322))
     ![](../images/PRA2022.png)
   
+  - **Surface crossing and energy flow in many-dimensional quantum systems** (with [Martin Gruebele](https://gruebele-group.chemistry.illinois.edu/) , [David E Logan](https://www.chem.ox.ac.uk/people/david-logan) and [Peter Wolynes](https://wolynes.rice.edu/)) , [PNAS2023](https://www.pnas.org/doi/abs/10.1073/pnas.2221690120)
+  ![](../images/PNAS_2023.png)
 
 **CV**
 ======
