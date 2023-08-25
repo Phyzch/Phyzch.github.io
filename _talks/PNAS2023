@@ -1,0 +1,21 @@
+---
+title: "Surface crossing and energy flow in many dimensional quantum system"
+collection: talks
+type: "Oral presentation"
+permalink: /talks/PNAS2023
+venue: "76th International Symposium for Molecular spectroscopy 2023, Urbana, IL"
+date: 2023-06-21
+location: "Urbana, IL"
+---
+
+Vibrational energy flow in molecules, like the dynamics of other many dimensional finite systems, involves quantum transport across a dense network of
+near resonant states. For molecules in their electronic
+ground state, the network is ordinarily provided by anharmonic vibrational Fermi resonances. Surface crossing
+between different electronic states provides another route
+to chaotic motion and energy redistribution. We show
+that nonadiabatic coupling between electronic energy surfaces facilitates vibrational energy flow, and conversely,
+anharmonic vibrational couplings facilitate nonadiabatic
+electronic state mixing. A generalization of the LoganWolynes theory of quantum energy flow in many-dimensional Fermi resonance systems to the two-surface case gives a
+phase diagram describing the boundary between localized quantum dynamics and global energy flow. We explore these predictions and test them using a model inspired by the problem of electronic excitation energy transfer in the photosynthetic
+reaction center. Using an explicit numerical solution of the time dependent Schrodinger equation for this ten-dimensional ¨
+model, we find quite good agreement with the expectations from the approximate analytical theory.
