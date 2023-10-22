@@ -27,3 +27,7 @@ Some of projects I have worked on:
 **CV**
 ======
 You can find my CV [here](https://phyzch.github.io/cv/) 
+
+**Hobbies**
+=======
+I enjoy spending time running, biking, hiking outside the lab. Here is the [page](https://phyzch.github.io/Hobbies/) that I use to record my race experience.
