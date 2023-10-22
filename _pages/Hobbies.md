@@ -4,7 +4,7 @@ title: "Hobbies"
 permalink: /Hobbies/
 author_profile: true
 ---
-Outside research, I am an avid runner. You can see my race result on [Athlinks](https://www.athlinks.com/athletes/494795677).
+Outside the lab, I am interested in spending time running. You can see my race result on [Athlinks](https://www.athlinks.com/athletes/494795677).
 
 Below are also some race event photos with my friends.
 
