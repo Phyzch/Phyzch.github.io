@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Chenghao Zhang, I am currently a Ph.D. student at Department of Physics, University of Illinois at Urbana Champaign (UIUC), advised by Prof. [Martin Gruebele](https://gruebele-group.chemistry.illinois.edu/). I also benefit from collaboration with Prof. [Peter Wolynes](https://wolynes.rice.edu/) at Rice University.
+Hi! I am Chenghao Zhang, I am currently a postdoctoral researcher in Chemical Physics Theory Team in Pacific Northwest National Laboratory, WA, USA.  I specialize in developing high performance C++ and python code and use Machine Learning to simulate complex molecular systems.
+
+I obtained my Ph.D. in Physics from University of Illinois at Urbana Champaign (UIUC), advised by Prof. [Martin Gruebele](https://gruebele-group.chemistry.illinois.edu/). I also benefited from collaboration with Prof. [Peter Wolynes](https://wolynes.rice.edu/) at Rice University during my PhD career.
 
 As a physicist by training, I got my physics undergraduate degree from Peking University, Beijing, China. In my undergraduate study, I worked on nonequilibrium statistical physics and biophysics with Prof. [Yuhai Tu](https://researcher.watson.ibm.com/researcher/view.php?person=us-yuhai) and Prof. [Qi Ouyang](http://www.cls.edu.cn/english/PrincipalInvestigator/pi/index1642.shtml). 
 
 Now I am working at the interface of chemistry and physics. I am interested at studying intramolecular vibrational energy redistribution, quantum scrambling and quantum localization in complex chemical systems, and chemical dynamics in nonadiabatic systems and in condensed phase systems.
 
-**I have defended my thesis in January 2024, with thesis title "Quantum Localization and Scrambling in Molecular systems". I will join Pacific Northwest National Laboratory to work with [Niri Govind](https://www.pnnl.gov/people/niri-govind) as a postdoctoral researcher.**
+**I have defended my thesis in January 2024, with thesis title "Quantum Localization and Scrambling in Molecular systems". I have joined Pacific Northwest National Laboratory to work with [Niri Govind](https://www.pnnl.gov/people/niri-govind) as a postdoctoral researcher.**
 
 
 **Projects**
